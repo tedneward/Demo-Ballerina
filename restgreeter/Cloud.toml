@@ -1,0 +1,9 @@
+[container.image]
+repository="tedneward" # ex - Docker hub name
+name="greeter" # container name
+tag="v0.1.0"
+
+[settings]
+buildImage=true 
+    # set this false to just gen the Dockerfile
+
