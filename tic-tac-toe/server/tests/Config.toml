@@ -1,0 +1,7 @@
+username = "sa"
+password = ""
+gamedbfile = "target/cache/games"
+
+
+[ballerina.log]
+level = "INFO"
